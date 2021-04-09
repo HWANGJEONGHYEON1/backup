@@ -1,11 +1,9 @@
 ---
 layout: post
 comments: [true | false]
-title: [스프링] 조회 빈이 2개이상일 때
+title: [스프링] 빈 자동주입 
 categories: [spring]
 ---
-
-# final
 
 ## autowired
  - 타입매칭을 시도하고, 타입 매칭 결과가 2개 이상일 때 필드명으로 빈 이름 매칭
