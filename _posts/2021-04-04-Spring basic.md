@@ -23,8 +23,7 @@ class AppConfig {
         return new OracleDbRepository(); // 원하는 디비를 연결하여 가져올 수 있다.
     }
 }
-```
-```java
+
 public class MemberServiceImpl implements MemberService {
 
     private final MemberRepository memberRepository;
@@ -41,7 +40,7 @@ public class MemberServiceImpl implements MemberService {
 
 # 의존관계 주입
 
-> ``Dependency Injection````
+> Dependency Injection
 - 정적인 클래스 의존관계
 - 실행시점에 결정되는 동적인 객체 의존관계
   - 애플리케이션 _ 실행시점_ 에 외부에서 실제 구현 객체를 생성하고 클라이언트에 전달하여 클라이언트와 서버의 실제 의존관계가 연결되는 것을 ```의존관계주입```
@@ -52,5 +51,5 @@ public class MemberServiceImpl implements MemberService {
 
 # IoC컨테이너, DI 컨테이너
  - 객체를 생성하고 관리해주는 컨테이너 위에 AppConfig.class 역할
- - IoC컨테이너 또는 ```DI 컨테이너```
+ - IoC컨테이너 또는 DI 컨테이너
  - 의존관계 주입에 초점을 맞추어 DI컨테이너라고 불린다.
