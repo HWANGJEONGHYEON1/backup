@@ -1,8 +1,8 @@
 ---
 layout: post
-comments: [true | false]
-title: 불변이 필요한 이유
-categories: [java]
+title:  "Immutable"
+date:   2021-04-02 21:18:00
+categories: java
 ---
 
 # Immutable Object

@@ -1,8 +1,8 @@
 ---
 layout: post
-comments: [true | false]
-title: IoC, DI, Container
-categories: [spring]
+title:  "IoC, DI, Container"
+date:   2021-04-04 22:30:00
+categories: spring
 ---
 
 # 제어의 역전

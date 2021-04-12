@@ -1,8 +1,8 @@
 ---
 layout: post
-comments: [true | false]
-title: [스프링] 조회 빈이 모두 필요할 때(List, Map)
-categories: [spring]
+title:  "Spring bean이 필요한 경우"
+date:   2021-04-09 23:18:00
+categories: spring
 ---
 
 #  Bean이 모두 필요한 경우

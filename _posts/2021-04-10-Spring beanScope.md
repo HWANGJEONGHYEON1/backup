@@ -1,10 +1,9 @@
 ---
 layout: post
-comments: [true | false]
-title: [스프링] Bean scope
-categories: [spring]
+title:  "스프링 빈 스코프"
+date:   2021-04-10 23:18:00
+categories: spring
 ---
-
 ## Bean Scope
  - 빈이 존재할 수 있는 범위
  - 스프링은 다양한 스코프를 지원

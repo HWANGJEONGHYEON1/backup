@@ -1,8 +1,8 @@
 ---
 layout: post
-comments: [true | false]
-title: 의존관계 주입 4가지
-categories: [spring]
+title:  "Injection 종류"
+date:   2021-04-05 20:18:00
+categories: spring
 ---
 
 > ```Dependency injection```

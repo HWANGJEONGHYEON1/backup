@@ -1,10 +1,9 @@
 ---
 layout: post
-comments: [true | false]
-title: JAVA final Keyword
-categories: [java]
+title:  "JAVA final"
+date:   2021-04-01 20:18:00
+categories: java
 ---
-
 # final
 
 ## final에 대해 정리하게 된 이유

@@ -1,8 +1,8 @@
 ---
 layout: post
-comments: [true | false]
-title: [스프링] 빈 자동주입 
-categories: [spring]
+title:  "autoWired"
+date:   2021-04-08 20:18:00
+categories: spring
 ---
 
 ## autowired

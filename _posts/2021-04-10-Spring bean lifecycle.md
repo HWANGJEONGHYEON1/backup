@@ -1,8 +1,8 @@
 ---
 layout: post
-comments: [true | false]
-title: [스프링] 빈 생명주기
-categories: [spring]
+title:  "스프링 빈 생명주기"
+date:   2021-04-10 20:18:00
+categories: spring
 ---
 
 ## Bean 생명주기 콜백
