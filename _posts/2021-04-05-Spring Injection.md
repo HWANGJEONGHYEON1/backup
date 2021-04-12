@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Injection 종류"
-date:   2021-04-05 20:18:00
+date:   2021-04-05 19:22:21 +0900
 categories: spring
 ---
 

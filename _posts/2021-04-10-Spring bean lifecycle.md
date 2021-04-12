@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "스프링 빈 생명주기"
-date:   2021-04-10 20:18:00
+date:   2021-04-10 19:22:21 +0900
 categories: spring
 ---
 

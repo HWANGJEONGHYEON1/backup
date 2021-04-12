@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "autoWired"
-date:   2021-04-08 20:18:00
+date:   2021-04-08 19:22:21 +0900
 categories: spring
 ---
 

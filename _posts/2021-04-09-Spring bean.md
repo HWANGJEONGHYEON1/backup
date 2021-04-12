@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spring bean이 필요한 경우"
-date:   2021-04-09 23:18:00
+date:   2021-04-09 19:22:21 +0900
 categories: spring
 ---
 

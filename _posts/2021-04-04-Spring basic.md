@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IoC, DI, Container"
-date:   2021-04-04 22:30:00
+date:   2021-04-04 19:22:21 +0900
 categories: spring
 ---
 
